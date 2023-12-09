@@ -1,1 +1,1 @@
-# CODSOFT_WEBDEV_PORTFOLIO
+This portfolio page is a culmination of my skills and experiences gained during my internship, demonstrating my proficiency in web development and design. Created using HTML and CSS, this page serves as a showcase of my projects, skills, and accomplishments. It encapsulates my dedication to clean code, responsive design, and user-friendly interface. 
